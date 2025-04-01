@@ -1,4 +1,4 @@
-In this project, a music recommendation system was developed to find similar songs and recommend new songs based on a user's preferences, i.e., how they have `rated` a song or if they have `liked` a song.
+In this project, a music recommendation system is developed to find similar songs and recommend new songs based on a user's preferences, i.e., how they have `rated` a song or if they have `liked` a song.
 
 It features `2` different models: `ratings` only and the `hybrid` model.
 
