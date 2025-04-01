@@ -1,6 +1,6 @@
 In this project, a music recommendation system is developed to find similar songs and recommend new songs based on a user's preferences, i.e., how they have `rated` a song or if they have `liked` a song.
 
-It features `2` different models: `ratings` only and the `hybrid` model.
+It features `2` different models: `ratings-based` and the `hybrid` model.
 
 - The `ratings` model utilises only the `ratings` feature to develop the recommendation system, while
 - The `hybrid` model utilises the `ratings`, `likes` & `genre` features to develop the recommendation system with each feature contributing different weights; `ratings = [0.5]`, `likes = [0.3]` & `genre = [0.2]`.
