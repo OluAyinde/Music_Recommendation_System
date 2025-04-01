@@ -14,3 +14,17 @@ It features 2 different models: `ratings` only and the `hybrid` model.
 - The song `name` and `genre` were downloaded from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019?resource=download).
 - The `ratings` feature is a dummy dataset generated using deepseek, with higher `ratings` having more weightage, while
 - The `likes` feature was populated in Google Sheets.
+
+
+`Data Information:`
+- `userId` - the id of a user.
+- `musicId` - the id of a song.
+- `rating` - the score representing a user's preference.
+- `likes` - indicating whether a user likes a song or not.
+- `title` - the title of a song, the artist & year it was released.
+- `genre` - the genre if the song.
+
+`Data Stat:`
+- Total number of `ratings` - `249,975`.
+- Unique `MusicId's` - `23,493`.
+- Unique `Users` - `1512`.
