@@ -28,3 +28,6 @@ It features `2` different models: `ratings-based` and the `hybrid` model.
 - Total number of `ratings` - `249,975`.
 - Unique `MusicId's` - `23,493`.
 - Unique `Users` - `1512`.
+-----------------
+
+A brief article of the project can be found [here](https://medium.com/@aoluf/music-recommendation-system-a-shallow-dive-fca7b699f4a4)
