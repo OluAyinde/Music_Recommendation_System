@@ -22,7 +22,7 @@ It features `2` different models: `ratings-based` and the `hybrid` model.
 - `rating` - the score representing a user's preference.
 - `likes` - indicating whether a user likes a song or not.
 - `title` - the title of a song, the artist & year it was released.
-- `genre` - the genre if the song.
+- `genre` - the genre of the song.
 
 `Data Stat:`
 - Total number of `ratings` - `249,975`.
