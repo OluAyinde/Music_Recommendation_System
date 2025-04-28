@@ -31,6 +31,7 @@ It features `2` different models: `ratings-based` and the `hybrid` model.
 -----------------
 
 **Youtube Data**
+
 Considering the data used in the initial system was dummy (ratings), I decided test the system with real data.
 
 `Data Information:`
