@@ -58,6 +58,10 @@ Considering the data used in the initial system was dummy (ratings), I decided t
 - Total number of `ratings` - `51,472`.
 - Unique `MusicId's` - `4,830`.
 - Unique `Users` - `325`.
+
+`Run Script:`
+- To run the `scrape_music.py` file, copy and paste this into your terminal or bash `python3 scrape_music.py` and run. Depending on the `Python` you have installed, you may use `python scrape_music.py`.
+
 -----------------
 
 A brief article of the project can be found [here](https://medium.com/@aoluf/music-recommendation-system-a-shallow-dive-fca7b699f4a4)
