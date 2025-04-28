@@ -46,7 +46,7 @@ Considering the data used in the initial system was dummy (ratings), I decided t
 - `genre` - the genre of the song.
 
 `Assumptions:`
-- The `ratings` feature has a scale of `1 - 5` with a half-step count, i.e, `1.5`, `2.5`. The half-step count is assigned to `55%` of each scale bin, i.e. if the bin of scale `1.0` has 4000 records, 2200 will be `1.5`, while 1800 will be `1.0`. `This does not apply for scale 5.0`
+- The `ratings` feature has a scale of `1 - 5` with a half-step count, i.e, `1.5`, `2.5`. The half-step count is assigned to `55%` of each scale bin, i.e. if the bin of scale `1.0` has `4000` records, `2200` will be `1.5`, while `1800` will be `1.0`. `This does not apply for scale 5.0`
 - A `like` is worth a `3` point score and assigned to `ratings >= 3.5` with a `.45` probability of being assigned.
 
 `Data:`
